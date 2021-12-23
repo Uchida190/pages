@@ -21,7 +21,6 @@ tutorial
 1. レペル 0
 
 # レベル0
-![hoge](https://user-images.githubusercontent.com/66754239/147178098-2e0bdad9-a43f-42fd-adf6-09bcc1117b1a.png)
 
 ほげ
 
